@@ -22,5 +22,5 @@ sklearn pandas seaborn GridSearchCV LanguageDetectorBuilder
 ## Модели
 RandomForestClassifier DecisionTreeClassifier CatBoostClassifier LogisticRegression
 
-Метрика
+## Метрика
 F1, ROC-AUC
